@@ -1,0 +1,44 @@
+body {
+    background-color: aqua;
+}
+
+.gameTitle {
+    color: white;
+    background-color: green;
+}
+
+.guidelines {
+    color: green;
+    background-color: wheat;
+}
+
+#computer-random {
+    padding-left: 18px;
+    font-size: 25px;
+    color: black;
+    background-color: tan;
+    height: 125px;
+}
+
+.results {
+    color: black;
+    background-color: lightblue;
+    height: 125px;
+}
+
+.btn {
+    background-color: white;
+}
+
+.scoreNotice {
+    padding-left: 18px;
+    color: white;
+    background-color: seagreen;
+}
+
+#player-score {
+    padding-left: 18px;
+    font-size: 25px;
+    color: white;
+    background-color: seagreen;
+}
